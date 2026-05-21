@@ -23,6 +23,10 @@
 
 <img src="https://media.tenor.com/dtqQ7Yv5sv4AAAAj/xd.gif" width="70px"/>
 
+<td>
+  <a href="https://open.spotify.com/user/fx7p8h55kquhncmiby8dk6aic?si=dd9ac4ac243e42e8">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 </td>
 
 </tr>
