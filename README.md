@@ -1,6 +1,6 @@
 Halloo, i'm debis yay ✮⋆˙(˶˃ ᵕ ˂˶)  
 
-🌸 23-year-old Computer Science student  
+🌸 23 yearold compsci student  
 
 🕹️ Aspiring Game Developer  
 
