@@ -1,6 +1,5 @@
-Halloo, i'm debis yay ✮⋆˙(˶˃ ᵕ ˂˶)  
-
-🌸 23 yearold compsci student  
+##
+🌸 Halloo, i'm debis yay ✮⋆˙(˶˃ ᵕ ˂˶) i'm 23 year old compsci student
 
 🕹️ Aspiring Game Developer  
 
@@ -10,6 +9,7 @@ Halloo, i'm debis yay ✮⋆˙(˶˃ ᵕ ˂˶)
 
 🎵 coding with ***SOAD*** in the background
 
+<div align="center">
 <table>
 <tr>
 
@@ -27,3 +27,6 @@ Halloo, i'm debis yay ✮⋆˙(˶˃ ᵕ ˂˶)
 
 </tr>
 </table>
+<div>
+  
+##
