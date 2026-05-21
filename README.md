@@ -8,6 +8,8 @@ Halloo, i'm debis yay ✮⋆˙(˶˃ ᵕ ˂˶)
 
 ✨ Building games and exploring new technologies  
 
+🎵 coding with ***SOAD*** in the background
+
 <table>
 <tr>
 
