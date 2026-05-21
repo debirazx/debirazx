@@ -7,9 +7,9 @@
 
 ✨ Building games and exploring new technologies  
 
-🎵 coding with ***SOAD*** in the background
+🎵 Coding with ***SOAD*** in the background
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
